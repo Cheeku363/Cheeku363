@@ -1,6 +1,6 @@
 ## Chirag Jhariya
 
- 🔭 I’m A Student at Global Engineering College
+ 🔭 I’m a Student at Global Engineering College
 - 🌱 I’m currently exploring  Full stack Development
 - 💬 We can connect over [[Instagram]](https://www.instagram.com/cheekuu_.___/) [[LinkedIn]](https://www.linkedin.com/in/chirag-jhariya-a2b24a200/)
 
