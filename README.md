@@ -1,4 +1,4 @@
-## Chirag Jhariya
+## Hey there! 👋 I am Chirag
 
  🔭 I’m a Student at Global Engineering College
 - 🌱 I’m currently exploring  Full stack Development
